@@ -1,0 +1,7 @@
+{
+  "name": "Good Platters - Modern Casual Restaurant",
+  "description": "A comprehensive restaurant management system and customer-facing website featuring online reservations, dynamic menu management, and an AI-powered admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
